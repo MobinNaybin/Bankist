@@ -14,8 +14,8 @@ Bankist Web App is a personal project developed to simulate basic banking operat
 - **Username: "ws"**, **Password: "2222"**
 
 ## Usage
-1. Click the link below.
-
+1. Click the link.
+[https://bankistmobin.netlify.app](https://bankistmobin.netlify.app)
 2. Log in with one of the test account usernames and their respective passwords.
 3. Explore the available functionalities.
 

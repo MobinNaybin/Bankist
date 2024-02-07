@@ -1,4 +1,4 @@
-# Bank Web App
+# Bankist
 
 ## Overview
 Bankist Web App is a personal project developed to simulate basic banking operations such as account management, transfers, deposits, and loan requests. This project was created with the help

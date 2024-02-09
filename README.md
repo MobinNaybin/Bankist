@@ -22,5 +22,3 @@ Bankist Web App is a personal project developed to simulate basic banking operat
 ## Contributors
 - [Mobin Naybin](https://github.com/MobinNaybin) - Developer
 
-## License
-This project is licensed under the [MIT License](https://kopplin.mit-license.org).

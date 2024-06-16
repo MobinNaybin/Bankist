@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #444;
   background-color: #f3f3f3;
   height: 100vh;
@@ -27,6 +27,12 @@ nav {
 .welcome {
   font-size: 1.9rem;
   font-weight: 500;
+}
+
+.example-user {
+  font-size: 1.7rem;
+  font-weight: 500;
+  padding: 0 2rem;
 }
 
 .logo {
